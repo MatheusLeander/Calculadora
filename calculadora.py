@@ -55,7 +55,7 @@ button_style = {
     'bg': "#4caf50",
     'fg': '#ffffff',
     'relief': 'raised',
-    'bd':3,
+    'bd':2,
     'width':2,
     'height': 2,
 }
